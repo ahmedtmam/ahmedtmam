@@ -1,7 +1,7 @@
  <h1 align="center">Hi I'm Ahmed</h1>
 <h3 align="center">Linux System Administration</h3>
 '
-- 👋 Hello, I’m @Ahmed-Mohamed
+- 👋 Hello, I’m @Ahmed Mohamed
 - 🎓 I'm Graduated from faculty of computer and information Assiut university
 - 👀 I’m interested in Linux system admin and cloud
 - 🌱 I’m currently learning Linux system admin
