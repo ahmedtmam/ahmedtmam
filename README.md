@@ -1,6 +1,8 @@
  <h1 align="center">Hi I'm Ahmed</h1>
 <h3 align="center">Linux System Administration</h3>
 
+🎓 I'm Graduated from faculty of computer and information Assiut university
+
 <!--
 **ahmedtmam/ahmedtmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
