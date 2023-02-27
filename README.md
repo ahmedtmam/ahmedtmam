@@ -3,20 +3,13 @@
 
 - 👋 Hello, I’m @Ahmed Mohamed
 - 🎓 I'm Graduated from faculty of computer and information Assiut university
-- 👀 I’m interested in Linux system admin and cloud
-- 🌱 I’m currently learning Linux system admin
+- 🌱 I'm learning Linux system, Bash, Python, Containers, Cloud, and more
 - 👯 I’m looking to collaborate on open source projects
 
-<!--
-**ahmedtmam/ahmedtmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Skills 
+<p align="left">
+ <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="36" height="36" alt="Linux" /></a>
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank" rel="noreferrer"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width="36" height="36" alt="Bash" /></a>
+</p>
 
 
