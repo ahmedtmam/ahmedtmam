@@ -2,7 +2,6 @@
 <h3 align="center">Linux System Administration</h3>
 
 - 👋 Hello, I’m @Ahmed Mohamed
-- 🎓 I'm Graduated from faculty of computer and information Assiut university
 - 🌱 I'm learning Linux system, Bash, Python, Containers, Cloud, and more
 - 👯 I’m looking to collaborate on open source projects and Cloud
 - 📫 Ping me on LinkedIn: https://www.linkedin.com/in/ahmed-mohamed145/
